@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Application_Screenshot](https://github.com/Waikikec/weather-fourth-app/assets/19924074/f53a73ce-b601-42ae-a6f0-9115f08469c1)
 
-## Available Scripts
+The Weather Forecasting application provides detailed weather information for the next 5-6 days with a 3-hour interval, based on the city name entered. The user-friendly application is built using React.js and Material-UI.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Built With
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![AXIOS](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
+![EmotionCSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- GETTING STARTED -->
 
-### `npm run build`
+### Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Get a free API Key at [Open Weather Map](https://openweathermap.org/)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/Waikikec/weather-fourth-app.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Create your `.env` file by following `.env.example` and enter your API in
+   ```js
+   const REACT_APP_WEATHER_API_KEY = 'ENTER YOUR API';
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- LICENSE -->
+### 📄 Todos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ ] Improve architecture by creating a centralized Redux store
+- [ ] Better UI/UX design (new custom Weather Icons + Layout)
+- [ ] Handling the asynchronous calls when the user types and preliminary loads all options
+- [ ] Theme provider for the whole application with unified font styles, colors, etc.
+- [ ] Celcius/Fahrenheit conversion
 
-### `npm run eject`
+<!-- LICENSE -->
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Distributed under the MIT License.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- CONTACT -->
+## Contact
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+martin.d.yankov@gmail.com
 
-## Learn More
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+
