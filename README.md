@@ -3,7 +3,7 @@
 
 ![Application_Screenshot](https://github.com/Waikikec/weather-fourth-app/assets/19924074/f53a73ce-b601-42ae-a6f0-9115f08469c1)
 
-The Weather Forecasting application provides detailed weather information for the next 5-6 days with a 3-hour interval, based on the city name entered. The user-friendly application is built using React.js and Material-UI.
+The Weather Forecasting application provides detailed weather information for the next 5 days with a 3-hour interval, based on the city name entered. The user-friendly application is built using React.js and Material-UI.
 
 
 
@@ -53,7 +53,7 @@ Distributed under the MIT License.
 
 martin.d.yankov@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Waikikec](https://github.com/github_username/repo_name)
 
 
 
