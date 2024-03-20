@@ -33,8 +33,8 @@ The Weather Forecasting application provides detailed weather information for th
    const REACT_APP_WEATHER_API_KEY = 'ENTER YOUR API';
    ```
 
-<!-- LICENSE -->
-### 📄 Todos
+<!-- TODOS -->
+### Todos
 
 - [ ] Improve architecture by creating a centralized Redux store
 - [ ] Better UI/UX design (new custom Weather Icons + Layout)
