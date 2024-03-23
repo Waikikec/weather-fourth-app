@@ -53,10 +53,6 @@ Distributed under the MIT License.
 
 martin.d.yankov@gmail.com
 
-Project Link: [Waikikec](https://github.com/github_username/repo_name)
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
